@@ -33,6 +33,7 @@
     justify-content: center;
     gap: 3px;
     cursor: pointer;
+    
 }
 
 .nav_menu hr {
@@ -79,3 +80,8 @@
     background: #FF4141;
     color: white;
 } 
+
+.linkUnderline { 
+   text-decoration: none;
+   color: inherit;
+}
