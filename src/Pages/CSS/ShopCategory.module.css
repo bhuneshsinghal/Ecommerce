@@ -1,0 +1,10 @@
+.shop_category img{
+    
+}
+.collections {
+    display: grid;
+    margin: 30px 0px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+

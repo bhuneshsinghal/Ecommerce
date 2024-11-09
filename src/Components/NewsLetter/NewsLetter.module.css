@@ -1,0 +1,42 @@
+.newsLetter {
+    height: 40vh;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 0px 140px;
+    margin-bottom: 0px;
+    background: linear-gradient(180deg, #fde1ff, rgba(225, 255, 234, 0.22) 60%);
+    gap: 30px;
+    margin-top: -100px;
+}
+.input_btn_box {
+    background: rgb(118, 117, 117);
+}
+.newsLetter div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    border-radius: 80px;
+}
+.text{
+    width: 500px;
+    margin-left: 30px;
+    border: none;
+    outline: none;
+    color: #616161;
+    font-size: 16px;
+}
+
+.btn{
+    width: 210px;
+    height: 70px;
+    border-radius: 80px;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}

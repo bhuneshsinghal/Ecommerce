@@ -2,6 +2,7 @@
     width: 65%;
     display: flex;
     margin: auto;
+    flex: 1;
     height: 60vh;
     padding: 0px 140px;
     margin-bottom: 150px;
